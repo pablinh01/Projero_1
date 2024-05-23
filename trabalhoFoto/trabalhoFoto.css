@@ -1,0 +1,12 @@
+#img {
+    width: 700px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+
+}
+    body {
+        background-image: url(/img/fundo.jpg);
+        background-repeat:no-repeat;
+        background-size: 100% 230%;
+    }
